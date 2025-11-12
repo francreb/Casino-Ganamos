@@ -1,0 +1,9 @@
+{
+  "name": "ganamosvip-frontend",
+  "version": "1.0.0",
+  "description": "Frontend estático de GanamosVIP",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {}
+}
